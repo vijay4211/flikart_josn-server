@@ -1,0 +1,709 @@
+{
+  "cloth": [
+    {
+      "type": "cloth",
+      "id": "3",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/p/p/q/l-ad-1-sti-original-imah7fha3yknjff4.jpeg?q=70&crop=false",
+      "productName": "Men's T Shirts",
+      "price": "6000",
+      "rating": "4",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/s/h/o/l-ad-1-sti-original-imah7fhag9mpvhku.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/j/c/j/l-ad-1-sti-original-imah7fhasf4c5fex.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/m/x/9/l-ad-1-sti-original-imah7fhaa3epzjzg.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "cloth",
+      "id": "4",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/m/9/u/l-tsrt-catalog-14-kajaru-original-imah4qtagcpkxxzs.jpeg?q=70&crop=false",
+      "productName": "Men's T Shirts",
+      "price": "8000",
+      "rating": "3",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/y/4/b/m-tsrt-catalog-14-kajaru-original-imah4khvv6qjfdr4.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/d/g/k/m-tsrt-catalog-14-kajaru-original-imah4khvbhdx8dhf.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/l/l/a/m-tsrt-catalog-14-kajaru-original-imah4khv4qxbemda.jpeg?q=70&crop=false"
+      ]
+    }
+  ],
+  "mobile": [
+    {
+      "type": "mobile",
+      "id": "1",
+      "image": "https://rukminim2.flixcart.com/image/312/312/k1fbmvk0/mobile/4/f/f/mi-redmi-8-mzb8251in-original-imafhyacmxaefxgw.jpeg?q=70",
+      "productName": "mobile",
+      "price": "5000",
+      "rating": "3",
+      "discount": "10%",
+      "customerRating": "4.5",
+      "quntity": "1",
+      "details": [
+        "4 GB RAM | 128GB ROM | Expandabale Upto 1500 GB",
+        "17.02 cm (6.7 inch) HD+ Display",
+        "50MP + 2MP | 8MP Front Camera",
+        "5000mAh Battery",
+        "Dimensity 6300 Processor",
+        "1 Year Manufacturer Warranty For Device and 6 Months for in-BoxAccessories"
+      ],
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/k1fbmvk0/mobile/4/f/f/mi-redmi-8-mzb8251in-original-imafhyacvweh9gxf.jpeg",
+        "https://rukminim2.flixcart.com/image/416/416/k1fbmvk0/mobile/4/f/f/mi-redmi-8-mzb8251in-original-imafhyacng8eqqwb.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/k1fbmvk0/mobile/4/f/f/mi-redmi-8-mzb8251in-original-imafhyacqsf5fktx.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "mobile",
+      "id": "2",
+      "image": "https://rukminim2.flixcart.com/image/312/312/k1fbmvk0/mobile/4/f/f/mi-redmi-8-mzb8251in-original-imafhyacmxaefxgw.jpeg?q=70",
+      "productName": "mobile",
+      "price": "4000",
+      "rating": "3",
+      "discount": "10%",
+      "customerRating": "4.5",
+      "quntity": "1",
+      "details": [
+        "4 GB RAM | 128GB ROM | Expandabale Upto 1500 GB",
+        "17.02 cm (6.7 inch) HD+ Display",
+        "50MP + 2MP | 8MP Front Camera",
+        "5000mAh Battery",
+        "Dimensity 6300 Processor",
+        "1 Year Manufacturer Warranty For Device and 6 Months for in-BoxAccessories"
+      ],
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/k1fbmvk0/mobile/4/f/f/mi-redmi-8-mzb8251in-original-imafhyacvweh9gxf.jpeg",
+        "https://rukminim2.flixcart.com/image/416/416/k1fbmvk0/mobile/4/f/f/mi-redmi-8-mzb8251in-original-imafhyacng8eqqwb.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/k1fbmvk0/mobile/4/f/f/mi-redmi-8-mzb8251in-original-imafhyacqsf5fktx.jpeg?q=70&crop=false"
+      ]
+    }
+  ],
+  "laptop": [
+    {
+      "type": "laptop",
+      "id": "5",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/j/6/c/-original-imah8gg2x4afkpxe.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/h/w/h/-original-imah5255bghk4h3d.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/x/u/4/-original-imah5255zu7n9wxs.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/7/8/t/-original-imah5255krdwwmb7.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "laptop",
+      "id": "6",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/a/e/11mk-g9-chromebook-hp-original-imah3behyxsb4auh.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/s/v/11mk-g9-chromebook-hp-original-imah3behzgzgzpnt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/y/d/11mk-g9-chromebook-hp-original-imah3beh8yq8tzaw.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/i/n/11mk-g9-chromebook-hp-original-imagz7sezyvdhtfm.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "laptop",
+      "id": "13",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/a/e/11mk-g9-chromebook-hp-original-imah3behyxsb4auh.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/s/v/11mk-g9-chromebook-hp-original-imah3behzgzgzpnt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/y/d/11mk-g9-chromebook-hp-original-imah3beh8yq8tzaw.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/i/n/11mk-g9-chromebook-hp-original-imagz7sezyvdhtfm.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "laptop",
+      "id": "7",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/a/e/11mk-g9-chromebook-hp-original-imah3behyxsb4auh.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/s/v/11mk-g9-chromebook-hp-original-imah3behzgzgzpnt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/y/d/11mk-g9-chromebook-hp-original-imah3beh8yq8tzaw.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/i/n/11mk-g9-chromebook-hp-original-imagz7sezyvdhtfm.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "laptop",
+      "id": "8",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/a/e/11mk-g9-chromebook-hp-original-imah3behyxsb4auh.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/s/v/11mk-g9-chromebook-hp-original-imah3behzgzgzpnt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/y/d/11mk-g9-chromebook-hp-original-imah3beh8yq8tzaw.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/i/n/11mk-g9-chromebook-hp-original-imagz7sezyvdhtfm.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "laptop",
+      "id": "9",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/a/e/11mk-g9-chromebook-hp-original-imah3behyxsb4auh.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/s/v/11mk-g9-chromebook-hp-original-imah3behzgzgzpnt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/y/d/11mk-g9-chromebook-hp-original-imah3beh8yq8tzaw.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/i/n/11mk-g9-chromebook-hp-original-imagz7sezyvdhtfm.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "laptop",
+      "id": "10",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/a/e/11mk-g9-chromebook-hp-original-imah3behyxsb4auh.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/s/v/11mk-g9-chromebook-hp-original-imah3behzgzgzpnt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/y/d/11mk-g9-chromebook-hp-original-imah3beh8yq8tzaw.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/i/n/11mk-g9-chromebook-hp-original-imagz7sezyvdhtfm.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "laptop",
+      "id": "11",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/a/e/11mk-g9-chromebook-hp-original-imah3behyxsb4auh.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/s/v/11mk-g9-chromebook-hp-original-imah3behzgzgzpnt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/y/d/11mk-g9-chromebook-hp-original-imah3beh8yq8tzaw.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/i/n/11mk-g9-chromebook-hp-original-imagz7sezyvdhtfm.jpeg?q=70&crop=false"
+      ]
+    },
+    {
+      "type": "laptop",
+      "id": "12",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/u/a/e/11mk-g9-chromebook-hp-original-imah3behyxsb4auh.jpeg?q=70&crop=false",
+      "productName": "Gaming Laptop",
+      "processorName": "Inte Coleron Quad Core Processor",
+      "ram": "4 GB LPDDR4 RAM",
+      "operationSystem": "64 bit Chrome Operating System",
+      "display": "35.56 cm ('14 Inch') Touchscreen  Display",
+      "warranty": "1 Year Onsite warranty",
+      "price": "56987",
+      "rating": "5",
+      "discount": "10%",
+      "quntity": "1",
+      "imagesList": [
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/e/s/v/11mk-g9-chromebook-hp-original-imah3behzgzgzpnt.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/y/d/11mk-g9-chromebook-hp-original-imah3beh8yq8tzaw.jpeg?q=70&crop=false",
+        "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/w/i/n/11mk-g9-chromebook-hp-original-imagz7sezyvdhtfm.jpeg?q=70&crop=false"
+      ]
+    }
+  ],
+  "catogoryList": [
+    {
+      "id": "1",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Kilos",
+      "type": "mobile"
+    },
+    {
+      "id": "2",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Mobile",
+      "type": "cloth"
+    },
+    {
+      "id": "3",
+      "type": "laptop",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Fashion",
+      "isCategory": true,
+      "listItems": [
+        {
+          "id": 21,
+          "label": "Men's Top Wear"
+        },
+        {
+          "id": 22,
+          "label": "Men's Bottom Wear"
+        },
+        {
+          "id": 23,
+          "label": "Women Ethnic"
+        },
+        {
+          "id": 24,
+          "label": "Men Footwear"
+        },
+        {
+          "id": 25,
+          "label": "Women Footwear"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Electronics",
+      "isCategory": true,
+      "listItems": [
+        {
+          "id": 26,
+          "label": "Men's Top Wear"
+        },
+        {
+          "id": 27,
+          "label": "Men's Bottom Wear"
+        },
+        {
+          "id": 28,
+          "label": "Women Ethnic"
+        },
+        {
+          "id": 29,
+          "label": "Men Footwear"
+        },
+        {
+          "id": 30,
+          "label": "Women Footwear"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Home & Furniture"
+    },
+    {
+      "id": "6",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Appliances"
+    },
+    {
+      "id": "7",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Flight Bookings"
+    },
+    {
+      "id": "8",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Beauty, Toys & More",
+      "isCategory": true,
+      "listItems": [
+        {
+          "id": 31,
+          "label": "Men's Top Wear"
+        },
+        {
+          "id": 32,
+          "label": "Men's Bottom Wear"
+        },
+        {
+          "id": 33,
+          "label": "Women Ethnic"
+        },
+        {
+          "id": 34,
+          "label": "Men Footwear"
+        },
+        {
+          "id": 35,
+          "label": "Women Footwear"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "icon": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743004499/EcomImages/oo5efkmcpxbcaxoyssbg.webp",
+      "label": "Two Wheelers",
+      "isCategory": true,
+      "listItems": [
+        {
+          "id": 36,
+          "label": "Men's Top Wear"
+        },
+        {
+          "id": 37,
+          "label": "Men's Bottom Wear"
+        },
+        {
+          "id": 38,
+          "label": "Women Ethnic"
+        },
+        {
+          "id": 39,
+          "label": "Men Footwear"
+        },
+        {
+          "id": 40,
+          "label": "Women Footwear"
+        }
+      ]
+    }
+  ],
+  "SectionCardOneList": [
+    {
+      "name": "Best Of Mobile",
+      "type": "mobile",
+      "itemList": [
+        {
+          "id": 1,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "1000"
+        },
+        {
+          "id": 2,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "2000"
+        },
+        {
+          "id": 3,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "3000"
+        },
+        {
+          "id": 4,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "4000"
+        },
+        {
+          "id": 5,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "5000"
+        },
+        {
+          "id": 6,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "6000"
+        }
+      ],
+      "id": "8cb6"
+    },
+    {
+      "name": "Best Of Cloth",
+      "type": "cloth",
+      "itemList": [
+        {
+          "id": 1,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 2,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 3,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 4,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 5,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 6,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        }
+      ],
+      "id": "ae30"
+    },
+    {
+      "name": "Best Of Laptop",
+      "type": "laptop",
+      "itemList": [
+        {
+          "id": 1,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 2,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 3,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 4,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 5,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        },
+        {
+          "id": 6,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%",
+          "isPer": true
+        }
+      ],
+      "id": "15b0"
+    }
+  ],
+  "SectionCardTwoList": [
+    {
+      "name": "Mobiles",
+      "type": "mobile",
+      "itemList": [
+        {
+          "id": 1,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "1000"
+        },
+        {
+          "id": 2,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "2000"
+        },
+        {
+          "id": 3,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "3000"
+        },
+        {
+          "id": 4,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027316/EcomImages/yfrdqpl0crupywzwknps.jpg",
+          "name": "Best Camera",
+          "price": "4000"
+        }
+      ],
+      "id": "8f4a"
+    },
+    {
+      "name": "Cloths",
+      "type": "cloth",
+      "itemList": [
+        {
+          "id": 1,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%"
+        },
+        {
+          "id": 2,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%"
+        },
+        {
+          "id": 3,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%"
+        },
+        {
+          "id": 4,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027553/EcomImages/geexxiktm0pk6slqi17w.jpg",
+          "name": "Best Camera",
+          "price": "80%"
+        }
+      ],
+      "id": "f144"
+    },
+    {
+      "name": "Laptop",
+      "type": "laptop",
+      "itemList": [
+        {
+          "id": 1,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%"
+        },
+        {
+          "id": 2,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%"
+        },
+        {
+          "id": 3,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%"
+        },
+        {
+          "id": 4,
+          "image": "https://res.cloudinary.com/dxeug05ux/image/upload/v1743027399/EcomImages/uc4s1egwsrzggs9azdeq.jpg",
+          "name": "Best Camera",
+          "price": "80%"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "c5a0",
+      "username": "vijay",
+      "useremail": "vijay@gmail.com",
+      "userpassword": "123456",
+      "gender": "male",
+      "isTermSelected": false,
+      "selectOption": "",
+      "name": "ww",
+      "mobileNumber": "www",
+      "pinCode": "ww",
+      "locality": "ww",
+      "address": "ww",
+      "addressType": "",
+      "city": "ww",
+      "Landmark": "ww",
+      "alternatePhoneNumber": "wwwwwww"
+    }
+  ],
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "Biscuit"
+    },
+    {
+      "id": "2",
+      "checked": false,
+      "item": "Toiletries"
+    },
+    {
+      "id": "3",
+      "checked": false,
+      "item": "Milk"
+    }
+  ],
+  "studentData": [
+    {
+      "id": "1",
+      "firstName": "Rahul",
+      "lastName": "Magare"
+    },
+    {
+      "id": "2",
+      "firstName": "Ramesh",
+      "lastName": "Tribhuvan"
+    },
+    {
+      "id": "3",
+      "firstName": "Sushma",
+      "lastName": "Korde"
+    },
+    {
+      "id": "4",
+      "firstName": "Umesh",
+      "lastName": "Navgire"
+    },
+    {
+      "id": "5",
+      "firstName": "Deepak",
+      "lastName": "Jadhav"
+    }
+  ]
+}
